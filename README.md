@@ -1,4 +1,4 @@
-<img width="1055" height="663" alt="image" src="https://github.com/user-attachments/assets/a7c4c303-c599-4d08-8f82-fa7ac985d94b" /># Zepto-sales-analysis-using-python
+# Zepto-sales-analysis-using-python
 🚀 Data Analysis Project using Python
 
 I recently completed a data analysis project on Zepto customer data to understand user behavior and business insights.
