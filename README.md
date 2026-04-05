@@ -1,3 +1,4 @@
+<img width="1123" height="760" alt="Image" src="https://github.com/user-attachments/assets/3258ec4b-33a6-4eef-869d-61e82b12426f" />
 # Zepto-sales-analysis-using-python
 🚀 Data Analysis Project using Python
 
@@ -17,4 +18,3 @@ This project helped me understand how data can be used to make business decision
 I’m actively looking for opportunities as a Data Analyst. Feedback is welcome! 😊
 
 #DataAnalytics #Python #Fresher #OpenToWork #MachineLearning
-<img width="964" height="716" alt="Image" src="https://github.com/user-attachments/assets/8ec70208-b243-47da-acd3-815ead1f2afc" />
